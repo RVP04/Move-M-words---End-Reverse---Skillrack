@@ -1,9 +1,6 @@
 # Move-M-words---End-Reverse---Skillrack
 
 <div class="ui raised segment big">
-<div class="ui label big circular grey">Program ID- 3623</div>
-<div class="ui label big circular pink"> Solved By 264 Users</div> 
-<div class="ui label big circular black">Author: SkillRack</div>              <br>
 <h3 style="color:#003333">Move M Words - End Reverse</h3>
 <br> <p>The program must accept a string S which contains N words and move the first M words to the last in the reverse order.</p>
 
